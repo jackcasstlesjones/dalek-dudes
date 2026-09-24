@@ -11,7 +11,6 @@ Do the update items in the few days before we submit, not earlier.
 - [ ] Run `sudo pacman -Syu` and reboot if the kernel updated.
 - [ ] Update any AUR (Arch User Repository) packages you have installed.
 - [ ] Update Firefox and Chrome to the latest version.
-- [ ] Uninstall Zen browser if it is installed.
 - [ ] Run `sudo ufw status` and check it says "active". If not, run `sudo ufw enable`.
 
 ### Your phone
@@ -49,7 +48,6 @@ Do the update items in the few days before we submit, not earlier.
 - [ ] Install all App Store updates.
 - [ ] Update Chrome (menu > Help > About Google Chrome) and Firefox (menu > Help > About Firefox) if installed.
 - [ ] Update Word and Excel if installed (Help > Check for Updates).
-- [ ] Uninstall Zen browser if it is installed.
 - [ ] If Moonlock is installed, open it, install any updates and check real-time protection is on.
 
 ### Your phone
@@ -95,7 +93,6 @@ Do the update items in the few days before we submit, not earlier.
 - [ ] Install all App Store updates.
 - [ ] Update Chrome (menu > Help > About Google Chrome) and Firefox (menu > Help > About Firefox) if installed.
 - [ ] Update Word and Excel if installed (Help > Check for Updates).
-- [ ] Uninstall Zen browser if it is installed.
 - [ ] If Moonlock is installed, open it, install any updates and check real-time protection is on.
 
 ### Your phone
@@ -118,7 +115,6 @@ Do the update items in the few days before we submit, not earlier.
 - [ ] Run `sudo dnf upgrade --refresh` and reboot.
 - [ ] If you use Flatpak apps, run `flatpak update`.
 - [ ] Update Firefox and Chrome to the latest version if installed.
-- [ ] Uninstall Zen browser if it is installed.
 - [ ] Run `sudo firewall-cmd --state` and check it says "running". If not, run `sudo systemctl enable --now firewalld`.
 
 ### Your phone
