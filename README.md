@@ -22,7 +22,7 @@ Do the update items in the few days before we submit, not earlier.
 
 ### Your cloud accounts
 
-- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn, Instagram.
+- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn.
 - [ ] Log out and back in to each one to confirm you are actually asked for the second factor.
 
 ### Hetzner servers (all 3)
@@ -60,7 +60,7 @@ Do the update items in the few days before we submit, not earlier.
 
 ### Your cloud accounts
 
-- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn, Instagram.
+- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn.
 - [ ] Log out and back in to each one to confirm you are actually asked for the second factor.
 
 ### Proxmox host
@@ -106,7 +106,7 @@ Do the update items in the few days before we submit, not earlier.
 
 ### Your cloud accounts
 
-- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every Tandem-related account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn, Instagram.
+- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every Tandem-related account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn.
 - [ ] Log out and back in to each one to confirm you are actually asked for the second factor.
 
 ---
@@ -129,5 +129,5 @@ Do the update items in the few days before we submit, not earlier.
 
 ### Your cloud accounts
 
-- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every Tandem-related account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn, Instagram.
+- [ ] Check MFA (multi-factor authentication, e.g. an authenticator app or passkey) is switched on for every Tandem-related account you have on: Google Workspace, GitHub, Supabase, Netlify, Vercel, Cloudflare, Hetzner, Xero, Microsoft 365, Apple iCloud, Claude, Discord, LinkedIn.
 - [ ] Log out and back in to each one to confirm you are actually asked for the second factor.
